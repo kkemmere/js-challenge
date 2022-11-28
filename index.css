@@ -1,0 +1,19 @@
+body {
+  background-color: #15181d;
+  margin: 30px auto;
+  font-family: "Courier New", Courier, monospace;
+  color: #ccc;
+  font-weight: bold;
+}
+
+.background-wrapper {
+  display: flex;
+  justify-content: center;
+  min-height: 50vh;
+}
+
+.claim {
+  justify-content: center;
+  display: flexbox;
+  justify-content: center;
+}
