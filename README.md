@@ -5,6 +5,6 @@
 - Exporting those objects to another file for manipulation
 - JavaScript callback function
 - Display object information to DOM
-- CSS Style
+- Style in CSS
 
 Result available here: https://kkemmere.github.io/js-challenge/
