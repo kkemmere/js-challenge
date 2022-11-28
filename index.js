@@ -53,6 +53,7 @@ const content = claimArray.map((Claim) => {
         }</li>
         <li class="info patient_cost">Total cost of visit: $${Claim.cost}</li>
         <li class="info patient_covered"> Insurance ${claimAmount(Claim)}</li>
+    </ul>
   `;
 
   return claimArticle;
